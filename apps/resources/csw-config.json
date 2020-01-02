@@ -1,12 +1,12 @@
 {
-    "scalaVersion": "2.13.+",
+    "scalaVersion": "2.12.+",
     "mainClass": "csw.config.server.Main",
     "repositories": [
       "bintray:twtmt/maven",
       "jitpack"
     ],
     "dependencies": [
-      "com.github.tmtsoftware.csw:csw-config-server:1.0.0"
+      "com.github.tmtsoftware.csw::csw-config-server:1.0.0"
     ],
     "name": "csw-config"
   }
