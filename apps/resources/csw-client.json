@@ -1,0 +1,11 @@
+{
+    "scalaVersion": "2.13.+",
+    "mainClass": "csw.client.Main",
+    "repositories": [
+      "jitpack"
+    ],
+    "dependencies": [
+      "com.github.tmtsoftware.csw:csw-client:1.0.0"
+    ],
+    "name": "csw-client"
+  }
